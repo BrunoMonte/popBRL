@@ -10,3 +10,5 @@ if(per_mes == 0){
     total = rend + valor
     console.log('No país '+pais+' o rendimento do valor R$'+valor+', no período de '+per_mes+' meses, é de R$'+rend+', no total de R$ '+total+'')
 }
+
+console.log(valor)
